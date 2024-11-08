@@ -1,7 +1,7 @@
 # 🚀 Proyecto con React de Noticias Hackernews
 
 ## 📝 Descripción
-Este proyecto es una aplicación web desarrollada en React que simula un clon de Hacker News. Los usuarios pueden publicar enlaces, explorar publicaciones, y autenticarse para acceder a funcionalidades adicionales como la creación de nuevos enlaces y la administración de su sesión.
+Este proyecto es una aplicación web desarrollada en React. Los usuarios pueden publicar enlaces, explorar publicaciones, y autenticarse para acceder a funcionalidades adicionales como la creación de nuevos enlaces y la administración de su sesión.
 
 ## 🌟 Características
 * __Autenticación:__ Inicio y cierre de sesión mediante localStorage.
